@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8423031-b4f1-4196-ba4f-9eae402e5fdf" name="Default Changelist" comment="" />
+    <list default="true" id="c8423031-b4f1-4196-ba4f-9eae402e5fdf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryMethod.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2IBCBNPchODtc4zf8rWZhdWc8sT" />
   <component name="ProjectViewState">
@@ -49,6 +54,7 @@
       <updated>1669645452291</updated>
       <workItem from="1669645458656" duration="1000" />
       <workItem from="1669645706574" duration="3765000" />
+      <workItem from="1669675538597" duration="475000" />
     </task>
     <servers />
   </component>
@@ -57,6 +63,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1669647345698" />
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1669676111194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1669676111194" />
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1669676004304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1669676004304" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1669656245995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -73,13 +87,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1669656245994" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1669645741234">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1669675943596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1669645741234" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1669675943596" />
     <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1669647004111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1669647004111" />
+    <state x="65" y="0" key="new project wizard" timestamp="1669676017870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1669676017870" />
   </component>
 </project>
