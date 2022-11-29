@@ -12,4 +12,15 @@ public class FristBankFactory implements BankFactory {
         return null;
 
     }
+
+    @Override
+    public IPayment getPayment(int num) {
+        switch (num) {
+            case 12:
+                return new IPayment.VisaCard();
+            case 34:
+                return new IPayment.MasterCard();
+        }
+        return null;
+    }
 }
